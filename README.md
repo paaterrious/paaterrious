@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paaterrious
 - 👀 I’m interested in C and Computer Science Fundamentals
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on CS50 Problem Sets
+- 🌱 I’m currently learning programming fundamentals
+- 💞️ I’m looking to collaborate on CS50 Problem Sets and more 
 - 📫 You can reach me via mail at justiceforson8099@gmail.com
 
 <!---
